@@ -4,7 +4,7 @@ import requests
 import datetime 
 
 payload = {}
-key = {"apikey" : "RzIJXHIoW1aQjRG7tdOMqXGspGCgkUFv" }
+key = {"apikey" : "api key here" }
 
 programm = Tk()
 programm.geometry("500x500")
